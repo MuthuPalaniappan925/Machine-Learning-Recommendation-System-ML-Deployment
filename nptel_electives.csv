@@ -1,0 +1,479 @@
+,Course Id,Discipline,Course Name,SME Name,Institute,"
+Co-ordinating Institute",Duration,UG/PG,Core/Elective,Applicable NPTEL Domain,Click here to join the course,NPTEL URL,credits,Difficulty Level
+2,noc23-ae03,Aerospace Engineering,Rocket Propulsion,"Prof. K. Ramamurthi 
+ Prof. V. Nagabhushana Rao",IITM,IITM,12 Weeks,UG/PG,Elective,Propulsion,https://onlinecourses.nptel.ac.in/noc23_ae03,https://nptel.ac.in/courses/101106082,3,Intermediate
+3,noc23-ae04,Aerospace Engineering,Computational Science in Engineering,Prof. Ashok De,IITK,IITK,8 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_ae04,https://nptel.ac.in/courses/101104086,2,Intermediate
+4,noc23-ae05,Aerospace Engineering,Lighter than Air Systems,Prof. Rajkumar S. Pant,IITB,IITB,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ae05,https://nptel.ac.in/courses/101101087,3,Intermediate
+6,noc23-ae07,Aerospace Engineering,Satellite Attitude Dynamics And Control,Prof. Manoranjan Sinha,IITKGP,IITKGP,12 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_ae07,https://nptel.ac.in/courses/101105077,3,Intermediate
+7,noc23-ag01,Agriculture Engineering,Instrumentation and Process Control in Food Industry,Prof. Ashis Kumar Datta,IITKGP,IITKGP,8 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ag01,https://nptel.ac.in/courses/126105020,2,Beginner
+10,noc23-ag04,Agriculture Engineering,Machine Learning For Soil And Crop Management,Prof. Somsubhra Chakraborty,IITKGP,IITKGP,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ag04,https://nptel.ac.in/courses/126105021,3,Beginner
+11,noc23-ag05,Agriculture Engineering,Cooling Technology: Why and How utilized in Food Processing and allied Industries,Prof. Tridib Kumar Goswami,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ag05,https://nptel.ac.in/courses/126105025,3,Intermediate
+12,noc23-ag06,Agriculture Engineering,Traction Engineering,Prof. Hifjur Raheman,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ag06,https://nptel.ac.in/courses/126105026,2,Intermediate
+17,noc23-ar03,Architecture and Planning,User Interface Design,Prof. Saptarshi Kolay,IITR,IITR,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ar03,https://nptel.ac.in/courses/124107008,1,Intermediate
+18,noc23-ar04,Architecture and Planning,Environmental Impact Assessment,Prof. Harshit Sosan Lakra,IITR,IITR,12 Weeks,UG/PG,Elective,"Construction Materials Technology
+ Environment",https://onlinecourses.nptel.ac.in/noc23_ar04,https://nptel.ac.in/courses/124107160,3,Intermediate
+22,noc23-ce01,"Architecture, Civil and Design",Strategies for Sustainable Design,Prof. Shiva Ji,IIT Hyderabad,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ce01,https://nptel.ac.in/courses/124106157,3,Intermediate
+23,noc23-bt01,Biological science,Maternal Infant Young Child Nutrition,Prof. Rupal Dalal,IITB,IITB,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_bt01,https://nptel.ac.in/courses/102101091,3,Intermediate
+24,noc23-bt02,Biological science,मातृ शिशु युवा बाल पोषण,Prof. Rupal Dalal,IITB,IITB,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_bt02,https://nptel.ac.in/courses/102101097,3,Intermediate
+27,noc23-bt05,Biotechnology and Bioengineering,Enzyme Sciences and Technology,Prof. Vishal Trivedi,IITG,IITG,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_bt05,https://nptel.ac.in/courses/102103097,3,Beginner
+28,noc23-bt06,Biotechnology and Bioengineering,Metabolic Engineering,"Prof. Pinaki Sar
+ Prof. Amit Ghosh",IITKGP,IITKGP,8 Weeks,UG,Elective,Bioprocesses,https://onlinecourses.nptel.ac.in/noc23_bt06,https://nptel.ac.in/courses/102105086,2,Beginner
+29,noc23-bt07,Biotechnology and Bioengineering,Environmental Chemistry And Microbiology,"Prof. Anjali Pal
+ Prof. Sudha Goel",IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_bt07,https://nptel.ac.in/courses/102105087,3,Intermediate
+32,noc23-bt10,Biotechnology and Bioengineering,Human Molecular Genetics,Prof. S. Ganesh,IITK,IITK,4 Weeks,UG/PG,Elective,Biosciences,https://onlinecourses.nptel.ac.in/noc23_bt10,https://nptel.ac.in/courses/102104052,1,Intermediate
+35,noc23-bt13,Biotechnology and Bioengineering,Biostatistics and Design of experiments,Prof. Mukesh Doble,IITM,IITM,8 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_bt13,https://nptel.ac.in/courses/102106051,2,Intermediate
+36,noc23-bt14,Biotechnology and Bioengineering,Computational Systems Biology,Prof. Karthik Raman,IITM,IITM,12 Weeks,UG/PG,Elective,Computational Biology,https://onlinecourses.nptel.ac.in/noc23_bt14,https://nptel.ac.in/courses/102106068,3,Intermediate
+37,noc23-bt15,Biotechnology and Bioengineering,Demystifying The Brain,Prof. Srinivas Chakravarthy,IITM,IITM,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_bt15,https://nptel.ac.in/courses/102106066,1,Intermediate
+39,noc23-bt17,Biotechnology and Bioengineering,Medical Biomaterials,Prof. Mukesh Doble,IITM,IITM,8 Weeks,UG/PG,Elective,Bioengineering,https://onlinecourses.nptel.ac.in/noc23_bt17,https://nptel.ac.in/courses/102106057,2,Intermediate
+42,noc23-bt20,Biotechnology and Bioengineering,Interactomics : Basics & Applications,Prof. Sanjeeva Srivastava,IITB,IITB,12 Weeks,UG/PG,Elective,Biosciences,https://onlinecourses.nptel.ac.in/noc23_bt20,https://nptel.ac.in/courses/102101082,3,Intermediate
+46,noc23-bt24,Biotechnology and Bioengineering,Plant Developmental Biology,Prof. Shri Ram Yadav,IITR,IITR,4 Weeks,UG/PG,Elective,Biosciences,https://onlinecourses.nptel.ac.in/noc23_bt24,https://nptel.ac.in/courses/102107075,1,Intermediate
+49,noc23-bt27,Biotechnology and Bioengineering,Biointerface Engineering,Prof. Lalit M. Pandey,IITG,IITG,8 Weeks,UG/PG,Elective,Bioengineering,https://onlinecourses.nptel.ac.in/noc23_bt27,https://nptel.ac.in/courses/102103086,2,Intermediate
+50,noc23-bt28,Biotechnology and Bioengineering,Conservation Economics,Prof. Ankur Awadhiya,IITK,IITK,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_bt28,https://nptel.ac.in/courses/102104086,3,Intermediate
+51,noc23-bt29,Biotechnology and Bioengineering,Forests and their Management,Prof. Ankur Awadhiya,IITK,IITK,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_bt29,https://nptel.ac.in/courses/102104082,3,Beginner
+52,noc23-bt30,Biotechnology and Bioengineering,Nanotechnology In Agriculture,Prof. Mainak Das,IITK,IITK,8 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_bt30,https://nptel.ac.in/courses/102104069,2,Intermediate
+53,noc23-bt31,Biotechnology and Bioengineering,Bioelectrochemistry,Prof. Mainak Das,IITK,IITK,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_bt31,https://nptel.ac.in/courses/102104062,1,Intermediate
+59,noc23-ch04,Chemical Engineering,Computer Aided Applied Single Objective Optimization,Prof. Prakash Kotecha,IITG,IITG,12 Weeks,UG/PG,Elective,Computational Chemical Engineering,https://onlinecourses.nptel.ac.in/noc23_ch04,https://nptel.ac.in/courses/103103164,3,Intermediate
+60,noc23-ch05,Chemical Engineering,Waste to Energy Conversion,Prof. P. Mondal,IITR,IITR,8 Weeks,UG,Elective,"Energy And Environment
+ Energy Systems",https://onlinecourses.nptel.ac.in/noc23_ch05,https://nptel.ac.in/courses/103107125,2,Beginner
+63,noc23-ch08,Chemical Engineering,Membrane Technology,Prof. Kaustubha Mohanty,IITG,IITG,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ch08,https://nptel.ac.in/courses/103103163,3,Intermediate
+65,noc23-ch10,Chemical Engineering,Computational Fluid Dynamics,Prof. Srinivas Jayanti,IITM,IITM,12 Weeks,UG/PG,Elective,"Computational Chemical Engineering
+ Computational Thermo Fluids",https://onlinecourses.nptel.ac.in/noc23_ch10,https://nptel.ac.in/courses/103106119,3,Intermediate
+68,noc23-ch13,Chemical Engineering,Electrochemical Technology in Pollution Control,Prof. J. R. Mudakavi,IISc,IISc,8 Weeks,UG/PG,Elective,Energy And Environment,https://onlinecourses.nptel.ac.in/noc23_ch13,https://nptel.ac.in/courses/103108162,2,Intermediate
+69,noc23-ch14,Chemical Engineering,Multiphase Flows,Prof. Rajesh Kumar Upadhyay,IIT(BHU) Varanasi,IITM,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ch14,https://nptel.ac.in/courses/103103136,2,Intermediate
+70,noc23-ch15,Chemical Engineering,Environmental Quality Monitoring & Analysis,Prof. Ravi Krishna R,IITM,IITM,12 Weeks,UG/PG,Elective,Energy And Environment,https://onlinecourses.nptel.ac.in/noc23_ch15,https://nptel.ac.in/courses/103106162,3,Intermediate
+72,noc23-ch17,Chemical Engineering,Biological process design for wastewater treatment,Prof. Vimal Chandra Srivastava,IITR,IITR,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ch17,https://nptel.ac.in/courses/103107217,2,Intermediate
+73,noc23-ch18,Chemical Engineering,Introduction To Process Modeling In The Membrane Separation Process,Prof. Sirshendu De,IITKGP,IITKGP,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ch18,https://nptel.ac.in/courses/103105121,1,Intermediate
+74,noc23-ch19,Chemical Engineering,Soft Nano Technology,Prof. Rabibrata Mukherjee,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ch19,https://nptel.ac.in/courses/103105122,2,Intermediate
+77,noc23-ch22,Chemical Engineering,Optimization In Chemical Engineering,Prof. Debasis Sarkar,IITKGP,IITKGP,12 Weeks,UG,Elective,Computational Chemical Engineering,https://onlinecourses.nptel.ac.in/noc23_ch22,https://nptel.ac.in/courses/103105139,3,Beginner
+80,noc23-ch25,Chemical Engineering,Advanced Thermodynamics and Molecular Simulations,Prof. Prateek Kumar Jha,IITR,IITR,12 Weeks,UG/PG,Core/Elective,Minor 3,https://onlinecourses.nptel.ac.in/noc23_ch25,https://nptel.ac.in/courses/103107208,3,Intermediate
+85,noc23-ch30,Chemical Engineering,Physico-chemical processes for wastewater treatment,Prof. Vimal Chandra Srivastava,IITR,IITR,12 Weeks,UG/PG,Elective,Energy And Environment,https://onlinecourses.nptel.ac.in/noc23_ch30,https://nptel.ac.in/courses/103107212,3,Intermediate
+86,noc23-ch31,Chemical Engineering,Metallocene and Metal-carbene based Organometallic Compounds as Industrially Important Advanced Polyolefin Catalysts,Prof. Sanjib K. Patra,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ch31,https://nptel.ac.in/courses/103105217,2,Intermediate
+87,noc23-ch32,Chemical Engineering,Chemical Engineering Fluid Dynamics and Heat Transfer,"Prof. Rabibrata Mukherjee
+ Prof. Arnab Atta",IITKGP,IITKGP,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ch32,https://nptel.ac.in/courses/103105218,3,Beginner
+88,noc23-ch33,Chemical Engineering,Biomass Conversion and Biorefinery,Prof. Kaustubha Mohanty,IITG,IITG,12 Weeks,UG/PG,Elective,Energy And Environment,https://onlinecourses.nptel.ac.in/noc23_ch33,https://nptel.ac.in/courses/103103207,3,Intermediate
+89,noc23-ch34,Chemical Engineering,Aspen Plus® simulation software - a basic course for beginners,Prof. Prabirkumar Saha,IITG,IITG,12 Weeks,UG/PG,Elective,Computational Chemical Engineering,https://onlinecourses.nptel.ac.in/noc23_ch34,https://nptel.ac.in/courses/103103209,3,Intermediate
+90,noc23-ch35,Chemical Engineering,"Renewable Energy Engineering: Solar, Wind and Biomass Energy Systems","Prof. Vaibhav Vasant Goud
+ Prof. R. Anandalakshmi",IITG,IITG,12 Weeks,UG/PG,Core/Elective,Energy And Environment,https://onlinecourses.nptel.ac.in/noc23_ch35,https://nptel.ac.in/courses/103103206,3,Intermediate
+93,noc23-ch38,Chemical Engineering,Thermodynamics Of Fluid Phase Equilibria,Prof. Jayant K. Singh,IITK,IITK,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ch38,https://nptel.ac.in/courses/103104129,2,Intermediate
+95,noc23-ch42,Chemical Engineering,Matlab Programming for Numerical Computation,Prof. Niket Kaisare,IITM,IITM,12 Weeks (8 weeks + 4 weeks new),UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ch42,https://nptel.ac.in/courses/103106118,3,Intermediate
+99,noc23-cy04,Chemistry,Transition Metal Organometallics in Catalysis and Biology,Prof. P. Ghosh,IITB,IITB,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cy04,https://nptel.ac.in/courses/104101123,3,Intermediate
+101,noc23-cy06,Chemistry,Advanced Chemical Thermodynamics and Kinetics,Prof. Arijit Kumar De,IISER Mohali,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cy06,https://nptel.ac.in/courses/104106094,3,Intermediate
+103,noc23-cy08,Chemistry,Chemistry - II,Prof. K.Mangal Sundar,IITM,IITM,8 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_cy08,https://nptel.ac.in/courses/104106074,2,Intermediate
+110,noc23-cy15,Chemistry,Bioinorganic Chemistry,Prof. S. P. Rath,IITK,IITK,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cy15,https://nptel.ac.in/courses/104104109,1,Intermediate
+121,noc23-cy26,Chemistry,Co-Ordination Chemistry (Chemistry Of Transition Elements),Prof. Debashis Ray,IITKGP,IITKGP,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cy26,https://nptel.ac.in/courses/104105085,3,Beginner
+122,noc23-cy27,Chemistry,Industrial Inorganic Chemistry,Prof. Debashis Ray,IITKGP,IITKGP,12 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_cy27,https://nptel.ac.in/courses/104105103,3,Intermediate
+127,noc23-cy32,Chemistry and Biochemistry,Thermodynamics: Classical To Statistical,Prof. Sandip Paul,IITG,IITG,12 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_cy32,https://nptel.ac.in/courses/104103112,3,Intermediate
+128,noc23-cy33,Chemistry And Biochemistry,Chemical kinetics and transition state theory,Prof. Amber Jain,IITB,IITB,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cy33,https://nptel.ac.in/courses/104101128,2,Intermediate
+129,noc23-ce02,Civil Engineering,Geology and Soil Mechanics,Prof. Priyanka Ghosh,IITK,IITK,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ce02,https://nptel.ac.in/courses/105104147,3,Intermediate
+132,noc23-ce05,Civil Engineering,Digital Land Surveying And Mapping (DLS&M),Prof. Jayanta Kumar Ghosh,IITR,IITR,8 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ce05,https://nptel.ac.in/courses/105107158,2,Beginner
+133,noc23-ce06,Civil Engineering,Maintenance and Repair of Concrete Structures,Prof. Radhakrishna G. Pillai,IITM,IITM,12 Weeks,UG/PG,Elective,Construction Materials Technology,https://onlinecourses.nptel.ac.in/noc23_ce06,https://nptel.ac.in/courses/105106202,3,Intermediate
+135,noc23-ce08,Civil Engineering,Introduction to Accounting and Finance for Civil Engineers,"Prof. K. N. Jha
+ Prof. Sudhir Misra",IITK,IITK,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ce08,https://nptel.ac.in/courses/105104178,2,Intermediate
+138,noc23-ce11,Civil Engineering,Environmental Remediation of Contaminated Sites,Prof. Bhanu Prakash Vellanki,IITR,IITR,12 Weeks,UG/PG,Elective,Environment,https://onlinecourses.nptel.ac.in/noc23_ce11,https://nptel.ac.in/courses/105107181,3,Intermediate
+140,noc23-ce13,Civil Engineering,Rock Engineering,Prof. Priti Maheshwari,IITR,IITR,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ce13,https://nptel.ac.in/courses/105107208,3,Beginner
+141,noc23-ce14,Civil Engineering,Air Pollution and Control,Prof. Bhola Ram Gurjar,IITR,IITR,12 Weeks,UG/PG,Elective,Environment,https://onlinecourses.nptel.ac.in/noc23_ce14,https://nptel.ac.in/courses/105107213,3,Intermediate
+142,noc23-ce15,Civil Engineering,Remote Sensing Essentials,Prof. Arun K. Saraf,IITR,IITR,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ce15,https://nptel.ac.in/courses/105107201,3,Intermediate
+143,noc23-ce16,Civil Engineering,Geographic Information Systems,Prof. Arun K. Saraf,IITR,IITR,12 Weeks,UG/PG,Elective,Environment,https://onlinecourses.nptel.ac.in/noc23_ce16,https://nptel.ac.in/courses/105107206,3,Intermediate
+144,noc23-ce17,Civil Engineering,Earthquake Resistant Design of Foundations,Prof. B. K. Maheshwari,IITR,IITR,8 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_ce17,https://nptel.ac.in/courses/105107204,2,Intermediate
+149,noc23-ce22,Civil Engineering,Introduction to Lean Construction (Module 1 - Lean Basics),"Prof. Koshy Varghese
+ Prof. N Raghavan",IITM,IITM,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ce22,https://nptel.ac.in/courses/105106213,1,Intermediate
+151,noc23-ce24,Civil Engineering,Remote Sensing: Principles and Applications,Prof. Eswar Rajasekaran,IITB,IITB,12 Weeks,UG/PG,Core/Elective,Environment,https://onlinecourses.nptel.ac.in/noc23_ce24,https://nptel.ac.in/courses/105101206,3,Intermediate
+158,noc23-ce31,Civil Engineering,Finite Element Method,"Prof. Biswanath Banerjee
+ Prof. Amit Shaw",IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ce31,https://nptel.ac.in/courses/112105308,3,Intermediate
+160,noc23-ce33,Civil Engineering,Advanced Foundation Engineering,Prof. Kousik Deb,IITKGP,IITKGP,12 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_ce33,https://nptel.ac.in/courses/105105207,3,Intermediate
+161,noc23-ce34,Civil Engineering,Soil Structure Interaction,Prof. Kousik Deb,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,Structural Analysis,https://onlinecourses.nptel.ac.in/noc23_ce34,https://nptel.ac.in/courses/105105200,3,Intermediate
+164,noc23-ce37,Civil Engineering,Water Supply Engineering,Prof. Manoj Kumar Tiwari,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ce37,https://nptel.ac.in/courses/105105201,3,Intermediate
+167,noc23-ce40,Civil Engineering,Introduction To Mineral Processing,Prof. Arun Kumar Majumder,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,Minor In Metallurgy,https://onlinecourses.nptel.ac.in/noc23_ce40,https://nptel.ac.in/courses/105105171,3,Intermediate
+168,noc23-ce41,Civil Engineering,Soil Dynamics,Prof. Paramita Bhattacharya,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ce41,https://nptel.ac.in/courses/105105221,3,Intermediate
+169,noc23-ce42,Civil Engineering,Safety in Construction,Prof. J. Uma Maheswari,IITD,IITD,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ce42,https://nptel.ac.in/courses/105102206,2,Intermediate
+170,noc23-ce43,Civil Engineering,Scheduling Techniques in Projects,Prof. J. Uma Maheswari,IITD,IITD,4 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ce43,https://nptel.ac.in/courses/105102199,1,Beginner
+172,noc23-ce45,Civil Engineering,Expansive Soil,Prof. Anil K. Mishra,IITG,IITG,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ce45,https://nptel.ac.in/courses/105103214,2,Intermediate
+174,noc23-ce47,Civil Engineering,Advanced Soil Mechanics,Prof. Sreedeep S,IITG,IITG,12 Weeks,UG/PG,Core/Elective,Structural Analysis,https://onlinecourses.nptel.ac.in/noc23_ce47,https://nptel.ac.in/courses/105103207,3,Intermediate
+175,noc23-ce48,Civil Engineering,Unsaturated Soil Mechanics,Prof. Tadikonda Venkata Bharat,IITG,IITG,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ce48,https://nptel.ac.in/courses/105103177,3,Intermediate
+177,noc23-ce50,Civil Engineering and Architecture Engineering,Concrete Technology,Prof. B. Bhattacharjee,IITD,IITD,12 Weeks,UG,Elective,Construction Materials Technology,https://onlinecourses.nptel.ac.in/noc23_ce50,https://nptel.ac.in/courses/105102012,3,Beginner
+179,noc23-ce52,"Civil Engineering, Rural Development, Earth Science, Geology",Remote Sensing and GIS for rural development,Prof. Pennan Chinnasamy,IITB,IITB,12 weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ce52,https://nptel.ac.in/courses/105101221,3,Beginner
+181,noc23-cs01,Computer Science & Engineering,Randomized Methods in Complexity,Prof. Nitin Saxena,IITK,IITK,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs01,https://nptel.ac.in/courses/106104228,3,Intermediate
+182,noc23-cs02,Computer Science & Engineering,Introduction to programming in C,Prof. Satyadev Nandakumar,IITK,IITK,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs02,https://nptel.ac.in/courses/106104128,2,Intermediate
+183,noc23-cs03,Computer Science & Engineering,Foundations of Cryptography,Prof. Ashish Choudhury,IIIT Bangalore,IISc,12 Weeks,UG/PG,Elective,Foundations Of Computing,https://onlinecourses.nptel.ac.in/noc23_cs03,https://nptel.ac.in/courses/106106221,3,Intermediate
+184,noc23-cs04,Computer Science and Engineering,Quantum Algorithms and Cryptography,Prof. Shweta Agrawal,IITM,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs04,https://nptel.ac.in/courses/106106241,3,Intermediate
+185,noc23-cs05,Computer Science and Engineering,An Introduction to Artificial Intelligence,Prof. Mausam,IITD,IITD,12 Weeks,UG,Elective,"Artificial Intelligence
+ Data Science
+ Robotics",https://onlinecourses.nptel.ac.in/noc23_cs05,https://nptel.ac.in/courses/106102220,3,Beginner
+188,noc23-cs08,Computer Science and Engineering,Data Analytics with Python,Prof. A. Ramesh,IITR,IITR,12 Weeks,UG/PG,Elective,Data Science,https://onlinecourses.nptel.ac.in/noc23_cs08,https://nptel.ac.in/courses/106107220,3,Intermediate
+189,noc23-cs09,Computer Science and Engineering,Artificial Intelligence: Knowledge Representation And Reasoning,Prof. Deepak Khemani,IITM,IITM,12 Weeks,UG/PG,Elective,"Artificial Intelligence
+ Data Science",https://onlinecourses.nptel.ac.in/noc23_cs09,https://nptel.ac.in/courses/106106140,3,Intermediate
+190,noc23-cs10,Computer Science and Engineering,Information Security - 5 - Secure Systems Engineering,Prof. Chester Robeiro,IITM,IITM,8 Weeks,UG/PG,Elective,Systems,https://onlinecourses.nptel.ac.in/noc23_cs10,https://nptel.ac.in/courses/106106199,2,Intermediate
+192,noc23-cs12,Computer Science and Engineering,Model Checking,Prof. Srivathsan.B,CMI,IITM,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs12,https://nptel.ac.in/courses/106106136,3,Beginner
+193,noc23-cs13,Computer Science and Engineering,Privacy and Security in Online Social Media,Prof. Ponnurangam Kumaraguru,IIITH,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs13,https://nptel.ac.in/courses/106106146,3,Intermediate
+194,noc23-cs14,Computer Science and Engineering,AI:Constraint Satisfaction,Prof. Deepak Khemani,IITM,IITM,8 Weeks,UG/PG,Elective,Artificial Intelligence,https://onlinecourses.nptel.ac.in/noc23_cs14,https://nptel.ac.in/courses/106106158,2,Intermediate
+195,noc23-cs15,Computer Science and Engineering,"Programming, Data Structures And Algorithms Using Python",Prof. Madhavan Mukund,CMI,IITM,8 Weeks,UG,Elective,"Artificial Intelligence
+ Computational Biology
+ Data Science
+ Foundations Of Computing
+ Programming",https://onlinecourses.nptel.ac.in/noc23_cs15,https://nptel.ac.in/courses/106106145,2,Beginner
+196,noc23-cs16,Computer Science and Engineering,Design and analysis of algorithms,Prof. Madhavan Mukund,CMI,IITM,8 Weeks,UG,Elective,Foundations Of Computing,https://onlinecourses.nptel.ac.in/noc23_cs16,https://nptel.ac.in/courses/106106131,2,Beginner
+197,noc23-cs17,Computer Science and Engineering,Data Science for Engineers,"Prof. Ragunathan Rengasamy
+ Prof. Shankar Narasimhan",IITM,IITM,8 Weeks,UG/PG,Elective,"Data Science
+ Programming",https://onlinecourses.nptel.ac.in/noc23_cs17,https://nptel.ac.in/courses/106106179,2,Intermediate
+198,noc23-cs18,Computer Science and Engineering,Introduction to Machine Learning,Prof. Balaraman Ravindran,IITM,IITM,12 Weeks,UG/PG,Elective,"Artificial Intelligence
+ Data Science
+ Programming
+ Robotics",https://onlinecourses.nptel.ac.in/noc23_cs18,https://nptel.ac.in/courses/106106139,3,Intermediate
+199,noc23-cs19,Computer Science and Engineering,Social Networks,Prof. Sudarshan Iyengar,IIT Ropar,IITM,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs19,https://nptel.ac.in/courses/106106169,3,Beginner
+200,noc23-cs20,Computer Science and Engineering,The Joy of Computing using Python,Prof. Sudarshan Iyengar,IIT Ropar,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs20,https://nptel.ac.in/courses/106106182,3,Intermediate
+201,noc23-cs21,Computer Science and Engineering,Python for Data Science,Prof. Ragunathan Rengasamy,IITM,IITM,4 Weeks,UG,Elective,"Artificial Intelligence
+ Data Science",https://onlinecourses.nptel.ac.in/noc23_cs21,https://nptel.ac.in/courses/106106212,1,Beginner
+203,noc23-cs23,Computer Science and Engineering,Reinforcement Learning,Prof. Balaraman Ravindran,IITM,IITM,12 Weeks,UG/PG,Elective,"Artificial Intelligence
+ Data Science
+ Robotics",https://onlinecourses.nptel.ac.in/noc23_cs23,https://nptel.ac.in/courses/106106143,3,Intermediate
+204,noc23-cs24,Computer Science and Engineering,Deep Learning - IIT Ropar,Prof. Sudarshan Iyengar,IIT Ropar,IITM,12 Weeks,UG/PG,Elective,"Artificial Intelligence
+ Data Science
+ Robotics",https://onlinecourses.nptel.ac.in/noc23_cs24,https://nptel.ac.in/courses/106106184,3,Intermediate
+205,noc23-cs25,Computer Science and Engineering,User-centric Computing for Human-Computer Interaction,Prof. Samit Bhattacharya,IITG,IITG,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs25,https://nptel.ac.in/courses/106103220,2,Intermediate
+206,noc23-cs26,Computer Science and Engineering,Advanced Graph Theory,Prof. Rajiv Misra,IIT Patna,IITK,8 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_cs26,https://nptel.ac.in/courses/106104170,2,Intermediate
+207,noc23-cs27,Computer Science and Engineering,Cloud Computing and Distributed Systems,Prof. Rajiv Misra,IITK,IITK,8 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_cs27,https://nptel.ac.in/courses/106104182,2,Intermediate
+208,noc23-cs28,Computer Science and Engineering,Introduction to parallel programming with OpenMP and MPI,Prof. Yogish Sabharwal,IITD,IITD,8 Weeks,UG/PG,Elective,Systems,https://onlinecourses.nptel.ac.in/noc23_cs28,https://nptel.ac.in/courses/106102163,2,Intermediate
+210,noc23-cs30,Computer Science and Engineering,Getting Started with Competitive Programming,Prof. Neeldhara Misra,IIT Gandhinagar,IITM,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs30,https://nptel.ac.in/courses/106106231,3,Beginner
+212,noc23-cs32,Computer Science and Engineering,Systems and Usable Security,Prof. Neminath Hubballi,IIT Indore,IITM,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs32,https://nptel.ac.in/courses/106106234,1,Intermediate
+213,noc23-cs33,Computer Science and Engineering,Introduction to Machine Learning (Tamil),Prof. Arun Rajkumar,IITM,IITM,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs33,https://nptel.ac.in/courses/106106236,2,Intermediate
+214,noc23-cs34,Computer Science and Engineering,Secure Computation: Part I,Prof. Ashish Choudhury,IIIT Bangalore,IISc,12 Weeks,UG/PG,Elective,Foundations Of Computing,https://onlinecourses.nptel.ac.in/noc23_cs34,https://nptel.ac.in/courses/106108229,3,Intermediate
+215,noc23-cs35,Computer Science and Engineering,Advanced Computer Networks,"Prof. Neminath Hubballi
+ Prof. Sameer Kulkarni","IIT Indore
+ IIT
+ Gandhi
+ nagar",IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs35,https://nptel.ac.in/courses/106106243,3,Intermediate
+216,noc23-cs36,Computer Science and Engineering,Affective Computing,"Prof. Jainendra Shukla
+ Prof. Abhinav Dhal",IIITD,IITM,12 Weeks,UG/PG,Elective,Artificial Intelligence,https://onlinecourses.nptel.ac.in/noc23_cs36,https://nptel.ac.in/courses/106106244,3,Intermediate
+217,noc23-cs37,Computer Science and Engineering,Circuit Complexity Theory,Prof. Raghunath Tewari,IITK,IITK,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs37,https://nptel.ac.in/courses/106104241,3,Intermediate
+218,noc23-cs38,Computer Science and Engineering,Software Testing,Prof. Rajib Mall,IITKGP,IITKGP,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs38,https://nptel.ac.in/courses/106105150,1,Intermediate
+220,noc23-cs40,Computer Science and Engineering,Introduction To Soft Computing,Prof. Debasis Samanta,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs40,https://nptel.ac.in/courses/106105173,2,Intermediate
+222,noc23-cs42,Computer Science and Engineering,Cloud Computing,Prof. Soumya Kanti Ghosh,IITKGP,IITKGP,12 Weeks,UG,Elective,"Programming
+ Systems",https://onlinecourses.nptel.ac.in/noc23_cs42,https://nptel.ac.in/courses/106105167,3,Beginner
+223,noc23-cs43,Computer Science and Engineering,Data Mining,Prof. Pabitra Mitra,IITKGP,IITKGP,8 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs43,https://nptel.ac.in/courses/106105174,2,Beginner
+224,noc23-cs44,Computer Science and Engineering,Ethical Hacking,Prof. Indranil Sengupta,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,"Robotics
+ Systems",https://onlinecourses.nptel.ac.in/noc23_cs44,https://nptel.ac.in/courses/106105217,3,Intermediate
+225,noc23-cs45,Computer Science and Engineering,Natural Language Processing,Prof. Pawan Goyal,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,"Artificial Intelligence
+ Data Science",https://onlinecourses.nptel.ac.in/noc23_cs45,https://nptel.ac.in/courses/106105158,3,Intermediate
+227,noc23-cs47,Computer Science and Engineering,Blockchain and its Applications,"Prof. Sandip Chakraborty
+ Prof. Shamik Sural",IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs47,https://nptel.ac.in/courses/106105235,3,Intermediate
+229,noc23-cs49,Computer Science and Engineering,Programming In Java,Prof. Debasis Samanta,IITKGP,IITKGP,12 Weeks,UG,Elective,Programming,https://onlinecourses.nptel.ac.in/noc23_cs49,https://nptel.ac.in/courses/106105191,3,Beginner
+231,noc23-cs51,Computer Science and Engineering,Introduction To Internet Of Things,Prof. Sudip Misra,IITKGP,IITKGP,12 Weeks,UG,Elective,"Programming
+ Systems",https://onlinecourses.nptel.ac.in/noc23_cs51,https://nptel.ac.in/courses/106105166,3,Beginner
+233,noc23-cs53,Computer Science and Engineering,Problem Solving Through Programming In C,Prof. Anupam Basu,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs53,https://nptel.ac.in/courses/106105171,3,Intermediate
+235,noc23-cs56,Computer Science and Engineering,Deep Learning,Prof. Prabir Kumar Biswas,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,"Artificial Intelligence
+ Data Science
+ Robotics",https://onlinecourses.nptel.ac.in/noc23_cs56,https://nptel.ac.in/courses/106105215,3,Intermediate
+240,noc23-cs61,Computer Science and Engineering,GPU Architectures And Programming,Prof. Soumyajit Dey,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,Systems,https://onlinecourses.nptel.ac.in/noc23_cs61,https://nptel.ac.in/courses/106105220,3,Intermediate
+241,noc23-cs62,Computer Science and Engineering,Foundations of Cyber Physical Systems,Prof. Soumyajit Dey,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs62,https://nptel.ac.in/courses/106105241,3,Intermediate
+243,noc23-cs64,Computer Science and Engineering,Optimisation for Machine Learning: Theory and Implementation (Hindi),Prof. Pravesh Biyani,IIITD,IITM,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_cs64,https://nptel.ac.in/courses/106106245,2,Intermediate
+244,noc23-cs65,Computer Science and Engineering,Foundation of Cloud IoT Edge ML,Prof. Rajiv Misra,IITP,IITK,8 Weeks,UG/PG,Elective,Systems,https://onlinecourses.nptel.ac.in/noc23_cs65,https://nptel.ac.in/courses/106104242,2,Intermediate
+246,noc23-de02,Design Engineering,Understanding Design,Prof. Nina Sabnani,IITB,IITB,4 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_de02,https://nptel.ac.in/courses/107101087,1,Beginner
+247,noc23-de03,Design Engineering,Understanding Ethnography,Prof. Nina Sabnani,IITB,IITB,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_de03,https://nptel.ac.in/courses/107101091,2,Intermediate
+248,noc23-de04,Design Engineering,Understanding Incubation and Entrepreneurship,Prof. B. K. Chakravarthy,IITB,IITB,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_de04,https://nptel.ac.in/courses/107101092,3,Beginner
+249,noc23-de05,Design Engineering,Innovation by Design,Prof. B. K. Chakravarthy,IITB,IITB,4 Weeks,UG,Elective,Patents And Intellectual Property Rights,https://onlinecourses.nptel.ac.in/noc23_de05,https://nptel.ac.in/courses/107101086,1,Beginner
+250,noc23-de06,Design Engineering,"Design, Technology and Innovation",Prof. B. K. Chakravarthy,IITB,IITB,8 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_de06,https://nptel.ac.in/courses/107101088,2,Beginner
+251,noc23-de07,Design Engineering,Usability Engineering,Prof. Debayan Dhar,IITG,IITG,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_de07,https://nptel.ac.in/courses/108103183,3,Intermediate
+257,noc23-mg01,Economic Sciences,Introduction to Econometrics,Prof. Sabuj Kumar Mandal,IITM,IITM,12 Weeks,UG,Elective,"Economics
+ Managerial Economics",https://onlinecourses.nptel.ac.in/noc23_mg01,https://nptel.ac.in/courses/130106001,3,Beginner
+259,noc23-mg03,Economic Sciences,Applied Statistics and Econometrics,Prof. Deep Mukherjee,IITK,IITK,12 Weeks,UG/PG,Core/Elective,"Economics
+ Managerial Economics",https://onlinecourses.nptel.ac.in/noc23_mg03,https://nptel.ac.in/courses/109104182,3,Intermediate
+260,noc23-ee01,Electrical and Electronics Engineering,Electric Vehicles - Part 1,Prof. Amit Jain,IITD,IITD,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee01,https://nptel.ac.in/courses/108102121,1,Intermediate
+261,noc23-ee02,Electrical and Electronics Engineering,Electromagnetic Waves in Guided and Wireless Media,Prof. Pradeep Kumar K,IITK,IITK,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee02,https://nptel.ac.in/courses/108104130,2,Intermediate
+262,noc23-ee03,Electrical and Electronics Engineering,Fundamental of Power Electronics,Prof. L.Umanand,IISc,IISc,12 Weeks,UG/PG,Core/Elective,"Power Systems And Power Electronics
+ Robotics",https://onlinecourses.nptel.ac.in/noc23_ee03,https://nptel.ac.in/courses/108101126,3,Intermediate
+266,noc23-ee07,Electrical and Electronics Engineering,CMOS Digital VLSI Design,Prof. Sudeb Dasgupta,IITR,IITR,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee07,https://nptel.ac.in/courses/108107129,2,Intermediate
+267,noc23-ee08,Electrical and Electronics Engineering,Principles of Digital Communications,Prof. Abhishek Dixit,IITD,IITD,12 Weeks,UG,Elective,Communication And Signal Processing,https://onlinecourses.nptel.ac.in/noc23_ee08,https://nptel.ac.in/courses/108102120,3,Beginner
+269,noc23-ee10,Electrical and Electronics Engineering,Analog Ic Design,Prof. Aniruddhan.S,IITM,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee10,https://nptel.ac.in/courses/108106105,3,Intermediate
+270,noc23-ee11,Electrical and Electronics Engineering,Digital IC Design,Prof. Janakiraman,IITM,IITM,12 Weeks,UG,Elective,Vlsi Design,https://onlinecourses.nptel.ac.in/noc23_ee11,https://nptel.ac.in/courses/108106158,3,Beginner
+272,noc23-ee13,Electrical and Electronics Engineering,Power Management Integrated Circuits,Prof. Qadeer Ahmad Khan,IITM,IITM,12 Weeks,UG/PG,Elective,"Power Systems And Power Electronics
+ Vlsi Design",https://onlinecourses.nptel.ac.in/noc23_ee13,https://nptel.ac.in/courses/108106159,3,Intermediate
+277,noc23-ee18,Electrical and Electronics Engineering,Microwave Integrated Circuits,Prof. Jayanta Mukherjee,IITB,IITB,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee18,https://nptel.ac.in/courses/117101119,2,Intermediate
+279,noc23-ee20,Electrical and Electronics Engineering,"High Power Multilevel Converters- Analysis, design and operational issues",Prof. Anandarup Das,IITD,IITD,12 Weeks,UG,Elective,Power Systems And Power Electronics,https://onlinecourses.nptel.ac.in/noc23_ee20,https://nptel.ac.in/courses/108102157,3,Beginner
+280,noc23-ee21,Electrical and Electronics Engineering,"Fuzzy Sets, Logic and Systems & Applications",Prof. Nishchal Kumar Verma,IITK,IITK,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee21,https://nptel.ac.in/courses/108104157,3,Intermediate
+283,noc23-ee24,Electrical and Electronics Engineering,Electronics equipment integration and Prototype building,Prof. N.V.Chalapathi Rao,IISc,IISc,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee24,https://nptel.ac.in/courses/108108157,2,Intermediate
+284,noc23-ee25,Electrical and Electronics Engineering,Architectural Design of Digital Integrated Circuits,Prof. Indranil Hatai,IIEST Shibpur,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee25,https://nptel.ac.in/courses/108105118,3,Intermediate
+285,noc23-ee26,Electrical and Electronics Engineering,Recent Advances in Transmission Insulators,Prof. Subba Reddy B,IISc,IISc,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee26,https://nptel.ac.in/courses/108108116,1,Intermediate
+287,noc23-ee28,Electrical and Electronics Engineering,Multirate DSP,Prof. R. David Koilpillai,IITM,IITM,12 Weeks,UG/PG,Elective,Communication And Signal Processing,https://onlinecourses.nptel.ac.in/noc23_ee28,https://nptel.ac.in/courses/108106136,3,Intermediate
+290,noc23-ee31,Electrical and Electronics Engineering,Digital Signal Processing and its Applications,Prof. V. M. Gadre,IITB,IITB,12 Weeks,UG/PG,Core/Elective,Communication And Signal Processing,https://onlinecourses.nptel.ac.in/noc23_ee31,https://nptel.ac.in/courses/108101174,3,Intermediate
+291,noc23-ee32,Electrical and Electronics Engineering,Foundations of Wavelets and Multirate Digital Signal Processing,Prof. V. M. Gadre,IITB,IITB,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee32,https://nptel.ac.in/courses/117101123,1,Intermediate
+294,noc23-ee35,Electrical and Electronics Engineering,Semiconductor device modeling and Simulation,Prof. Vivek Dixit,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee35,https://nptel.ac.in/courses/108105188,3,Intermediate
+295,noc23-ee36,Electrical and Electronics Engineering,RF and Microwave Networks,Prof. Bratin Ghosh,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee36,https://nptel.ac.in/courses/108105189,3,Intermediate
+297,noc23-ee38,Electrical and Electronics Engineering,Design of Power Electronic Converters,Prof. Shabari Nath,IITG,IITG,8 Weeks,UG/PG,Elective,Power Systems And Power Electronics,https://onlinecourses.nptel.ac.in/noc23_ee38,https://nptel.ac.in/courses/117103148,2,Intermediate
+298,noc23-ee39,Electrical and Electronics Engineering,Computer Vision and Image Processing - Fundamentals and Applications,Prof. M. K. Bhuyan,IITG,IITG,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee39,https://nptel.ac.in/courses/108103174,3,Intermediate
+299,noc23-ee76,Electrical and Electronics Engineering,Optical Engineering,Prof. Shanti Bhattacharya,IITM,IITM,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee76,https://nptel.ac.in/courses/108106161,3,Beginner
+301,noc23-ee78,Electrical and Electronics Engineering,Modern Computer Vision,Prof. A. N. Rajagopalan,IITM,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee78,https://nptel.ac.in/courses/108106189,3,Intermediate
+302,noc23-ee40,"Electrical and Electronics Engineering,
+ Computer Science and Engineering,
+ VLSI Specialization",Design and Analysis of VLSI Subsystems,Prof. Madhav Rao,IIIT Bangalore,IITM,12 Weeks,UG/PG,Elective,Vlsi Design,https://onlinecourses.nptel.ac.in/noc23_ee40,https://nptel.ac.in/courses/117106149,3,Intermediate
+303,noc23-ee41,"Electrical and Electronics Engineering, Instrumentation Engineering, Biomedical Engineering, Applied Physics,",Advanced Neural Science for Engineers,"Prof. Vikas V
+Prof. Hardik J Pandya","Nimhans Bangalore
+IISc",IISc,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee41,https://nptel.ac.in/courses/108108188,3,Intermediate
+304,noc23-ee43,Electrical Engineering,Medical Image Analysis,Prof. Debdoot Sheet,IITKGP,IITKGP,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee43,https://nptel.ac.in/courses/108105091,1,Intermediate
+305,noc23-ee44,Electrical Engineering,VLSI Signal Processing,Prof. Mrityunjoy Chakraborty,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee44,https://nptel.ac.in/courses/108105157,2,Intermediate
+307,noc23-ee46,Electrical Engineering,Evolution Of Air Interface Towards 5G,Prof. Suvra Sekhar Das,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee46,https://nptel.ac.in/courses/108105134,2,Intermediate
+310,noc23-ee49,Electrical Engineering,Biomedical Signal Processing,Prof. Sudipta Mukhopadhyay,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee49,https://nptel.ac.in/courses/108105101,3,Intermediate
+312,noc23-ee51,Electrical Engineering,"Power System Dynamics, Control and Monitoring",Prof. Debapriya Das,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee51,https://nptel.ac.in/courses/108105133,3,Intermediate
+317,noc23-ee56,Electrical Engineering,Industrial Automation And Control,Prof. Alokkanti Deb,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,"Manufacturing Processes And Technology
+ Robotics",https://onlinecourses.nptel.ac.in/noc23_ee56,https://nptel.ac.in/courses/108105088,3,Intermediate
+320,noc23-ee60,Electrical Engineering,Smart Grid: Basics to Advanced Technologies,"Prof. N. P. Padhy
+ Prof. Premlata Jena",IITR,IITR,12 Weeks (8 weeks + 4 weeks new),UG/PG,Core/Elective,Power Systems And Power Electronics,https://onlinecourses.nptel.ac.in/noc23_ee60,https://nptel.ac.in/courses/108107113,3,Intermediate
+321,noc23-ee61,Electrical Engineering,Optical Wireless Communications for Beyond 5G Networks and IoT,Prof. Anand Srivastava,IIITD,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee61,https://nptel.ac.in/courses/108106190,3,Intermediate
+324,noc23-ee64,Electrical Engineering,An Introduction to Information Theory,Prof. Adrish Banerjee,IITK,IITK,8 Weeks,UG/PG,Elective,Communication And Signal Processing,https://onlinecourses.nptel.ac.in/noc23_ee64,https://nptel.ac.in/courses/117104129,2,Intermediate
+325,noc23-ee65,Electrical Engineering,"Op-Amp Practical Applications: Design, Simulation and Implementation",Prof. Hardik J Pandya,IISc,IISc,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee65,https://nptel.ac.in/courses/108108114,3,Intermediate
+326,noc23-ee66,Electrical Engineering,Sensors and actuators,Prof. Hardik J Pandya,IISc,IISc,12 Weeks,UG/PG,Elective,"Control And Instrumentation
+ Robotics",https://onlinecourses.nptel.ac.in/noc23_ee66,https://nptel.ac.in/courses/108108147,3,Intermediate
+327,noc23-ee67,Electronics and Communication,Physics of Nanoscale Devices,Prof. Vishvendra Singh Poonia,IITR,IITR,12 Weeks,UG/PG,Elective,Vlsi Design,https://onlinecourses.nptel.ac.in/noc23_ee67,https://nptel.ac.in/courses/117107149,3,Intermediate
+330,noc23-ee70,Electronics and Communication Engineering,Fundamentals Of MIMO Wireless Communication,Prof. Suvra Sekhar Das,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee70,https://nptel.ac.in/courses/117105132,2,Intermediate
+332,noc23-ee72,Electronics and Communication Engineering,Signal Processing Techniques and its Applications,Prof. Shyamal Das Mandal,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,Communication And Signal Processing,https://onlinecourses.nptel.ac.in/noc23_ee72,https://nptel.ac.in/courses/117105149,3,Intermediate
+334,noc23-ee74,Electronics and Communication Engineering,Analog Circuits And Systems Through SPICE Simulation,Prof. Mrigank Sharad,IITKGP,IITKGP,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee74,https://nptel.ac.in/courses/117105147,3,Beginner
+335,noc23-ee75,Electronics and Communication Engineering,Spread Spectrum Communications And Jamming,Prof. Debarati Sen,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ee75,https://nptel.ac.in/courses/117105136,3,Intermediate
+336,noc23-hs03,Engineering / Science / Management,Computer Aided Decision Systems - Industrial practices using Big Analytics,"Prof. Deepu Philip
+ Prof. Amandeep Singh Oberoi",IITK,IITK,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs03,https://nptel.ac.in/courses/109104198,3,Intermediate
+338,noc23-hs04,Humanities & Social Sciences,Petroleum Economics and Management,Prof. Anwesha Aditya,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs04,https://nptel.ac.in/courses/109105198,3,Intermediate
+339,noc23-hs06,Humanities and Social Science,The Science of Happiness and Wellbeing,"Prof. Priyadarshi Patnaik
+ Prof. Manas K Mandal",IITKGP,IITKGP,8 Weeks,UG/PG,Elective,Psychology,https://onlinecourses.nptel.ac.in/noc23_hs06,https://nptel.ac.in/courses/109105199,2,Intermediate
+341,noc23-hs08,Humanities and Social Science,Technology Transfer Through Joint Venture,Prof. Indrajit Dube,IITKGP,IITKGP,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs08,https://nptel.ac.in/courses/109105097,1,Intermediate
+342,noc23-hs09,Humanities and Social Science,Legal Compliance For Incorporating Startup,Prof. Indrajit Dube,IITKGP,IITKGP,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs09,https://nptel.ac.in/courses/109105098,1,Intermediate
+343,noc23-hs10,Humanities and Social Science,Soft Skill Development,"Prof. Priyadarshi Patnaik
+ Prof. V. N. Giri
+ Prof. D. Suar",IITKGP,IITKGP,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs10,https://nptel.ac.in/courses/109105110,2,Intermediate
+344,noc23-hs11,Humanities and Social Science,Emotional Intelligence,Prof. Rabindra Kumar Pradhan,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs11,https://nptel.ac.in/courses/109105116,2,Intermediate
+348,noc23-hs15,Humanities and Social Science,Introduction On Intellectual Property To Engineers And Technologists,Prof. Tapas Kumar Bandyopadhyay,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,Faculty Domain - Advanced,https://onlinecourses.nptel.ac.in/noc23_hs15,https://nptel.ac.in/courses/109105112,2,Intermediate
+349,noc23-hs16,HUmanities and Social Science,Elements of Literature and Creative Communication,Prof. H S Komalesha,IITKGP,IITKGP,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs16,https://nptel.ac.in/courses/109105191,3,Beginner
+350,noc23-hs17,humanities and Social Science,Education for Sustainable Development,Prof. Atasi Mohanty,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,Faculty Domain - Advanced,https://onlinecourses.nptel.ac.in/noc23_hs17,https://nptel.ac.in/courses/109105190,3,Intermediate
+352,noc23-hs19,Humanities and Social Sciences,Effective Writing,Prof. Binod Mishra,IITR,IITR,4 Weeks,UG/PG,Elective,Faculty Domain - Fundamental,https://onlinecourses.nptel.ac.in/noc23_hs19,https://nptel.ac.in/courses/109107172,1,Intermediate
+354,noc23-hs21,Humanities and Social Sciences,Basics of language Science,Prof. Rajesh Kumar,IITM,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs21,https://nptel.ac.in/courses/109106182,3,Intermediate
+355,noc23-hs22,Humanities and Social Sciences,"English Literature of the Romantic Period, 1798-1832",Prof. Pramod K Nayar,University of Hyderabad,IITM,8 Weeks,UG/PG,Elective,English Studies,https://onlinecourses.nptel.ac.in/noc23_hs22,https://nptel.ac.in/courses/109106149,2,Intermediate
+358,noc23-hs25,Humanities and Social Sciences,Health Research Fundamentals,Prof. P. Manickam,NIE,IITM,8 Weeks,UG,Elective,Psychology,https://onlinecourses.nptel.ac.in/noc23_hs25,https://nptel.ac.in/courses/109106095,2,Beginner
+359,noc23-hs26,Humanities and Social Sciences,Patent Law for Engineers and Scientists,Prof. Feroz Ali,IITM,IITM,12 Weeks,UG/PG,Elective,"Faculty Domain - Advanced
+ Patents And Intellectual Property Rights",https://onlinecourses.nptel.ac.in/noc23_hs26,https://nptel.ac.in/courses/110106081,3,Intermediate
+360,noc23-hs27,Humanities and Social Sciences,German - I,Prof. Milind Brahme,IITM,IITM,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs27,https://nptel.ac.in/courses/109106166,3,Beginner
+361,noc23-hs28,Humanities and Social Sciences,German - II,Prof. Milind Brahme,IITM,IITM,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs28,https://nptel.ac.in/courses/109106165,3,Beginner
+362,noc23-hs29,Humanities and Social Sciences,German - III,Prof. Milind Brahme,IITM,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs29,https://nptel.ac.in/courses/109106190,3,Intermediate
+363,noc23-hs30,Humanities and Social Sciences,Enhancing Soft Skills and Personality,Prof. T. Ravichandran,IITK,IITK,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs30,https://nptel.ac.in/courses/109104115,2,Intermediate
+364,noc23-hs31,Humanities and Social Sciences,"Literature, Culture and Media",Prof. Rashmi Gaur,IITR,IITR,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs31,https://nptel.ac.in/courses/109107139,3,Intermediate
+368,noc23-hs35,Humanities and Social Sciences,Introduction to Modern Indian Political Thought,Prof. Mithilesh Kumar Jha,IITG,IITG,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs35,https://nptel.ac.in/courses/109103135,3,Intermediate
+369,noc23-hs36,Humanities and Social Sciences,Economic Growth and Development,Prof. Rajshree Bedamatta,IITG,IITG,8 Weeks,UG/PG,Elective,Economics,https://onlinecourses.nptel.ac.in/noc23_hs36,https://nptel.ac.in/courses/110103093,2,Intermediate
+371,noc23-hs38,Humanities and Social Sciences,Introduction to Cognitive Psychology,Prof. Naveen Kashyap,IITG,IITG,12 Weeks,UG/PG,Elective,Psychology,https://onlinecourses.nptel.ac.in/noc23_hs38,https://nptel.ac.in/courses/109103134,3,Intermediate
+372,noc23-hs39,Humanities and Social Sciences,Introduction to Psychology,Prof. Braj Bhushan,IITK,IITK,8 Weeks,UG,Elective,Psychology,https://onlinecourses.nptel.ac.in/noc23_hs39,https://nptel.ac.in/courses/109104105,2,Beginner
+373,noc23-hs40,Humanities and Social Sciences,Introduction to Environmental Economics,"Prof. Diptimayee Nayak
+ Prof. S. P. Singh",IITR,IITR,12 Weeks,UG/PG,Elective,Economics,https://onlinecourses.nptel.ac.in/noc23_hs40,https://nptel.ac.in/courses/109107171,3,Intermediate
+374,noc23-hs41,Humanities and Social Sciences,Psychiatry - An Overview and How the Brain Creates Mind,Prof. Alok Bajpai,IITK,IITK,8 Weeks,UG/PG,Elective,Psychology,https://onlinecourses.nptel.ac.in/noc23_hs41,https://nptel.ac.in/courses/109104096,2,Intermediate
+375,noc23-hs42,Humanities and Social Sciences,Sociological Perspectives on Modernity,Prof. Sambit Mallick,IITG,IITG,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs42,https://nptel.ac.in/courses/109103133,3,Intermediate
+376,noc23-hs43,Humanities and Social Sciences,Patent Drafting for Beginners,Prof. Feroz Ali,IITM,IITM,4 Weeks,UG/PG,Elective,"Faculty Domain - Advanced
+ Patents And Intellectual Property Rights",https://onlinecourses.nptel.ac.in/noc23_hs43,https://nptel.ac.in/courses/109106128,1,Intermediate
+378,noc23-hs45,Humanities and Social Sciences,Literature and Coping Skills,Prof. Ajit K Mishra,IIT(BHU) Varanasi,IITM,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs45,https://nptel.ac.in/courses/109104183,2,Intermediate
+383,noc23-hs50,Humanities and Social Sciences,Twentieth Century Fiction,Prof. Avishek Parui,IITM,IITM,12 Weeks,UG/PG,Elective,English Studies,https://onlinecourses.nptel.ac.in/noc23_hs50,https://nptel.ac.in/courses/109106172,3,Intermediate
+385,noc23-hs52,Humanities and Social Sciences,English Language for Competitive Exams,Prof. Aysha Iqbal,IITM,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs52,https://nptel.ac.in/courses/109106116,3,Intermediate
+387,noc23-hs54,Humanities and Social Sciences,Modern Indian Writing in Translation,Prof. Divya,IITM,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs54,https://nptel.ac.in/courses/109106173,3,Intermediate
+388,noc23-hs55,Humanities and Social Sciences,Intellectual Property,Prof. Feroz Ali,IITM,IITM,12 Weeks,UG/PG,Elective,Faculty Domain - Advanced,https://onlinecourses.nptel.ac.in/noc23_hs55,https://nptel.ac.in/courses/109106137,3,Intermediate
+389,noc23-hs56,Humanities and Social Sciences,Indian Feminisms: Concepts and Issues,Prof. Anandita Pan,IISER Bhopal,IITM,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs56,https://nptel.ac.in/courses/109106199,1,Intermediate
+390,noc23-hs57,Humanities and Social Sciences,United Nations Sustainable Development Goals (UN SDGs),Prof. Shiva Ji,IITH,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs57,https://nptel.ac.in/courses/109106200,3,Intermediate
+391,noc23-hs58,Humanities and Social Sciences,Literature and Life,Prof. S P Dhanavel,IITM,IITM,12 Weeks,UG,Elective,English Studies,https://onlinecourses.nptel.ac.in/noc23_hs58,https://nptel.ac.in/courses/109106189,3,Beginner
+392,noc23-hs59,Humanities and social sciences,Appreciating Hindustani Music,"Prof. Lakshmi Sreeram
+ Prof. Srijan Deshpande",IITM,IITM,8 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs59,https://nptel.ac.in/courses/109106191,2,Beginner
+393,noc23-hs60,Humanities and social sciences,Introduction to Pāṇinian grammar,Prof. Malhar Kulkarni,IITB,IITB,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs60,https://nptel.ac.in/courses/109101189,3,Beginner
+394,noc23-hs61,Humanities and Social Sciences,Narrative Mode and Fiction,Prof. Sarbani Banerjee,IITR,IITR,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs61,https://nptel.ac.in/courses/109107198,3,Intermediate
+395,noc23-hs62,Humanities and Social Sciences,Group Dynamics,Prof. Pooja Garg,IITR,IITR,8 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs62,https://nptel.ac.in/courses/109107199,2,Beginner
+396,noc23-hs63,Humanities and Social Sciences,Indian Poetry in English,Prof. Binod Mishra,IITR,IITR,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs63,https://nptel.ac.in/courses/109107189,2,Intermediate
+397,noc23-hs64,Humanities and Social Sciences,Contextualizing Gender,Prof. Rashmi Gaur,IITR,IITR,12 Weeks,UG/PG,Elective,English Studies,https://onlinecourses.nptel.ac.in/noc23_hs64,https://nptel.ac.in/courses/109107191,3,Intermediate
+398,noc23-hs65,Humanities and Social Sciences,समास samāsa in Pāṇinian grammar- I,Prof. Malhar Kulkarni,IITB,IITB,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs65,https://nptel.ac.in/courses/109101198,3,Beginner
+399,noc23-hs66,Humanities and Social Sciences,Bilingualism: A cognitive and psycholinguistic perspective,Prof. Bidisha Som,IITG,IITG,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs66,https://nptel.ac.in/courses/109103198,2,Intermediate
+400,noc23-hs67,Humanities and Social Sciences,Exploring Survey Data on Health Care,Prof. Pratap C. Mohanty,IITR,IITR,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs67,https://nptel.ac.in/courses/109107190,2,Intermediate
+401,noc23-hs68,Humanities and Social Sciences,Learning English in Hindi,Prof. Rajesh Kumar,IITM,IITM,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs68,https://nptel.ac.in/courses/109106201,2,Intermediate
+402,noc23-hs69,Humanities and Social Sciences,"Energy Resources, Economics and Environment",Prof. Rangan Banerjee,IITD,IITD,12 Weeks,UG/PG,Elective,Economics,https://onlinecourses.nptel.ac.in/noc23_hs69,https://nptel.ac.in/courses/109101171,3,Intermediate
+403,noc23-hs70,Humanities and Social Sciences,"Language, Culture and Cognition: An Introduction",Prof. Bidisha Som,IITG,IITG,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs70,https://nptel.ac.in/courses/109103189,2,Intermediate
+404,noc23-hs71,Humanities and Social Sciences,"Psychology of Stress, Health and Well-being",Prof. Dilwar Hussain,IITG,IITG,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs71,https://nptel.ac.in/courses/109103182,3,Intermediate
+405,noc23-hs72,Humanities and Social Sciences,Phonetics and Phonology: A broad overview,Prof. Shakuntala Mahanta,IITG,IITG,8 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs72,https://nptel.ac.in/courses/109103183,2,Beginner
+406,noc23-hs73,Humanities and Social Sciences,Philosophical Foundations of Social Research,Prof. Sambit Mallick,IITG,IITG,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs73,https://nptel.ac.in/courses/109103184,2,Intermediate
+407,noc23-hs76,Humanities and Social Sciences,Japani Bhasha - Saral swaroop(Japanese course taught in hindi),Prof. Vatsala Misra,IITK,IITK,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_hs76,,3,Intermediate
+412,noc23-mg06,Management,Total Quality Management - I,Prof. Raghu Nandan Sengupta,IITK,IITK,8 Weeks,UG/PG,Elective,Operations,https://onlinecourses.nptel.ac.in/noc23_mg06,https://nptel.ac.in/courses/110104080,2,Intermediate
+413,noc23-mg07,Management,Management of Field Sales,Prof. Jayanta Chatterjee,IITK,IITK,4 Weeks,UG/PG,Elective,Marketing,https://onlinecourses.nptel.ac.in/noc23_mg07,https://nptel.ac.in/courses/110104117,1,Intermediate
+414,noc23-mg08,Management,Marketing Management - II,"Prof. Jayanta Chatterjee
+ Prof. Shashi Shekhar Mishra",IITK,IITK,8 Weeks,UG/PG,Elective,Marketing,https://onlinecourses.nptel.ac.in/noc23_mg08,https://nptel.ac.in/courses/110104070,2,Intermediate
+415,noc23-mg09,Management,Introduction to Operations Research,Prof. G. Srinivasan,IITM,IITM,8 Weeks,UG/PG,Elective,"Managerial Economics
+ Minor
+ Operations",https://onlinecourses.nptel.ac.in/noc23_mg09,https://nptel.ac.in/courses/110106062,2,Intermediate
+417,noc23-mg11,Management,Design Thinking - A Primer,"Prof. Ashwin Mahalingam
+ Prof. Bala Ramadurai",IITM,IITM,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mg11,https://nptel.ac.in/courses/110106124,1,Intermediate
+418,noc23-mg12,Management,Financial Statement Analysis and Reporting,Prof. Anil K. Sharma,IITR,IITR,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mg12,https://nptel.ac.in/courses/110107073,3,Intermediate
+419,noc23-mg13,Management,Financial Management For Managers,Prof. Anil K. Sharma,IITR,IITR,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mg13,https://nptel.ac.in/courses/110107144,3,Intermediate
+420,noc23-mg14,Management,Business analytics and data mining Modeling using R,Prof. Gaurav Dixit,IITR,IITR,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mg14,https://nptel.ac.in/courses/110107092,3,Intermediate
+421,noc23-mg15,Management,MCDM Techniques Using R,Prof. Gaurav Dixit,IITR,IITR,4 Weeks,UG/PG,Elective,Operations,https://onlinecourses.nptel.ac.in/noc23_mg15,https://nptel.ac.in/courses/110107115,1,Intermediate
+422,noc23-mg16,Management,Supply Chain Analytics,Prof. Rajat Agrawal,IITR,IITR,8 Weeks,UG/PG,Elective,Operations,https://onlinecourses.nptel.ac.in/noc23_mg16,https://nptel.ac.in/courses/110107074,2,Intermediate
+424,noc23-mg18,Management,Simulation of Business Systems: An Applied Approach,Prof. Deepu Philip,IITK,IITK,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mg18,https://nptel.ac.in/courses/110104096,2,Intermediate
+425,noc23-mg19,Management,Systems Engineering: Theory & Practice,Prof. Deepu Philip,IITK,IITK,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mg19,https://nptel.ac.in/courses/110104074,2,Intermediate
+427,noc23-mg21,Management,Marketing Research and Analysis-II,Prof. J. K. Nayak,IITR,IITR,12 Weeks,UG/PG,Elective,Marketing,https://onlinecourses.nptel.ac.in/noc23_mg21,https://nptel.ac.in/courses/110107113,3,Intermediate
+428,noc23-mg22,Management,Business Statistics,Prof. Mukesh Kumar Barua,IITR,IITR,12 Weeks,UG/PG,Elective,"Managerial Economics
+ Operations",https://onlinecourses.nptel.ac.in/noc23_mg22,https://nptel.ac.in/courses/110107114,3,Intermediate
+429,noc23-mg23,Management,Global Marketing Management,Prof. Zillur Rahman,IITR,IITR,12 Weeks (8 weeks + 4 weeks new),UG/PG,Elective,Marketing,https://onlinecourses.nptel.ac.in/noc23_mg23,https://nptel.ac.in/courses/110107112,3,Intermediate
+431,noc23-mg25,Management,Infrastructure Economics,Prof. Nalin Bharti,IITP,IITM,8 Weeks,UG/PG,Elective,Economics,https://onlinecourses.nptel.ac.in/noc23_mg25,https://nptel.ac.in/courses/109106089,2,Intermediate
+434,noc23-mg28,Management,Leadership and Team Effectiveness,Prof. Santosh Rangnekar,IITR,IITR,12 Weeks,UG/PG,Elective,Faculty Domain - Advanced,https://onlinecourses.nptel.ac.in/noc23_mg28,https://nptel.ac.in/courses/110107159,3,Intermediate
+438,noc23-mg32,Management,Integrated Marketing Communication,Prof. Vinay Sharma,IITR,IITR,12 Weeks,UG/PG,Elective,Marketing,https://onlinecourses.nptel.ac.in/noc23_mg32,https://nptel.ac.in/courses/110107158,3,Intermediate
+441,noc23-mg35,Management,Services Marketing: A Practical Approach,Prof. Biplab Datta,IITKGP,IITKGP,4 Weeks,UG/PG,Elective,Marketing,https://onlinecourses.nptel.ac.in/noc23_mg35,https://nptel.ac.in/courses/110105078,1,Intermediate
+442,noc23-mg37,Management,Managing Change In Organizations,Prof. Kbl Srivastava,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mg37,https://nptel.ac.in/courses/110105120,2,Intermediate
+443,noc23-mg38,Management,Behavioral And Personal Finance,Prof. Abhijeet Chandra,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,Economics And Finance,https://onlinecourses.nptel.ac.in/noc23_mg38,https://nptel.ac.in/courses/110105144,2,Intermediate
+446,noc23-mg41,Management,Ethics In Engineering Practice,Prof. Susmita Mukhopadhyay,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,"Faculty Domain - Advanced
+ Faculty Domain - Fundamental",https://onlinecourses.nptel.ac.in/noc23_mg41,https://nptel.ac.in/courses/110105097,2,Intermediate
+448,noc23-mg43,Management,Foundation Course In Managerial Economics,Prof. Barnali Nag,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,Managerial Economics,https://onlinecourses.nptel.ac.in/noc23_mg43,https://nptel.ac.in/courses/110105075,2,Intermediate
+449,noc23-mg44,Management,Sales And Distribution Management,Prof. Sangeeta Sahney,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,Marketing,https://onlinecourses.nptel.ac.in/noc23_mg44,https://nptel.ac.in/courses/110105122,2,Intermediate
+450,noc23-mg45,Management,Consumer Behaviour,Prof. Srabanti Mukherjee,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,Marketing,https://onlinecourses.nptel.ac.in/noc23_mg45,https://nptel.ac.in/courses/110105074,2,Intermediate
+451,noc23-mg46,Management,Financial Institutions And Markets,Prof. Jitendra Mahakud,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,"Economics And Finance
+ Managerial Economics",https://onlinecourses.nptel.ac.in/noc23_mg46,https://nptel.ac.in/courses/110105121,3,Intermediate
+452,noc23-mg47,Management,Management Of Commercial Banking,Prof. Jitendra Mahakud,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mg47,https://nptel.ac.in/courses/110105143,3,Intermediate
+453,noc23-mg48,Management,Safety and Risk Analytics,Prof. Jhareswar Maiti,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mg48,https://nptel.ac.in/courses/110105160,3,Intermediate
+454,noc23-mg49,Management,E-Business,Prof. Mamata Jenamani,IITKGP,IITKGP,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mg49,https://nptel.ac.in/courses/110105083,3,Beginner
+455,noc23-mg50,Management,Management Of Inventory Systems,Prof. Pradip Kumar Ray,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,Operations,https://onlinecourses.nptel.ac.in/noc23_mg50,https://nptel.ac.in/courses/110105095,3,Intermediate
+456,noc23-mg51,Management,Quality Design And Control,Prof. Pradip Kumar Ray,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,Operations,https://onlinecourses.nptel.ac.in/noc23_mg51,https://nptel.ac.in/courses/110105088,3,Intermediate
+457,noc23-mg52,Management,Six Sigma,Prof. Jitesh J Thakkar,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,Operations,https://onlinecourses.nptel.ac.in/noc23_mg52,https://nptel.ac.in/courses/110105123,3,Intermediate
+459,noc23-mg54,Management,Business Analytics For Management Decision,Prof. Rudra P Pradhan,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,Operations,https://onlinecourses.nptel.ac.in/noc23_mg54,https://nptel.ac.in/courses/110105089,3,Intermediate
+461,noc23-mg56,Management,Engineering Econometrics,Prof. Rudra P Pradhan,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,"Economics
+ Managerial Economics",https://onlinecourses.nptel.ac.in/noc23_mg56,https://nptel.ac.in/courses/110105093,3,Intermediate
+465,noc23-mg60,Management,Introduction to System Dynamics Modeling,Prof. Jayendran Venkateswaran,IITB,IITB,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mg60,https://nptel.ac.in/courses/110101142,2,Intermediate
+468,noc23-mg63,Management,Artificial Intelligence (AI) for Investments,Prof. Abhinava Tripathi,IITK,IITK,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mg63,https://nptel.ac.in/courses/110104164,3,Intermediate
+470,noc23-mg65,Management,Financial accounting,Prof. Puran Singh,IIT Mandi,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mg65,,3,Intermediate
+471,noc23-hs74,"Management, Psychology, Human Values",Yoga and Positive Psychology for Managing Career and Life,Prof. Ashish Pandey,IITB,IITB,8 Weeks,UG/PG,ELective,Psychology,https://onlinecourses.nptel.ac.in/noc23_hs74,https://nptel.ac.in/courses/110101165,2,Intermediate
+472,noc23-mm01,Materials Science & Engineering,Corrosion Protection Methods,Prof. Kallol Mondal,IITK,IITK,8 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mm01,https://nptel.ac.in/courses/113104108,2,Beginner
+473,noc23-ma01,Mathematics,Graph Theory,Prof. Soumen Maity,IISER PUNE,IITM,8 Weeks,UG/PG,Elective,Foundations Of Computing,https://onlinecourses.nptel.ac.in/noc23_ma01,https://nptel.ac.in/courses/111106102,2,Intermediate
+477,noc23-ma05,Mathematics,Numerical Linear Algebra,"Prof. P. N. Agarawal
+ Prof. D. N. Pandey",IITR,IITR,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ma05,https://nptel.ac.in/courses/111107106,3,Intermediate
+484,noc23-ma12,Mathematics,Introduction to Galois Theory,Prof. Krishna Hanumanthu,CMI,IITM,8 Weeks,UG/PG,Core/Elective,Algebra,https://onlinecourses.nptel.ac.in/noc23_ma12,https://nptel.ac.in/courses/111106145,2,Intermediate
+488,noc23-ma16,Mathematics,Computational Mathematics with SageMath,Prof. Ajit Kumar,"Institute of Chemical Technology, Mumbai",IITM,12 Weeks,UG/PG,Core/Elective,"Algebra
+ Foundations Of Mathematics",https://onlinecourses.nptel.ac.in/noc23_ma16,https://nptel.ac.in/courses/111106149,3,Intermediate
+490,noc23-ma18,Mathematics,Dynamical System and Control,"Prof. N. Sukavanam
+ Prof. D. N. Pandey",IITR,IITR,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ma18,https://nptel.ac.in/courses/111107118,3,Intermediate
+491,noc23-ma19,Mathematics,Algebraic Combinatorics,"Prof. Amritanshu Prasad
+ Prof. Sankaran Viswanath",IMSc,IITM,12 Weeks,UG/PG,Elective,Algebra,https://onlinecourses.nptel.ac.in/noc23_ma19,https://nptel.ac.in/courses/111106158,3,Intermediate
+492,noc23-ma20,Mathematics,An introduction to Point-Set-Topology Part-I,Prof. Anant R Shastri,IITB,IITB,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ma20,https://nptel.ac.in/courses/111101158,3,Beginner
+495,noc23-ma23,Mathematics,Partial Differential Equations (PDE) For Engineers: Solution By Separation Of Variables,Prof. Sirshendu De,IITKGP,IITKGP,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ma23,https://nptel.ac.in/courses/111105093,1,Intermediate
+502,noc23-ma30,Mathematics,Advanced Computational Techniques,Prof. Somnath Bhattacharyya,IITKGP,IITKGP,4 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_ma30,https://nptel.ac.in/courses/111105164,1,Intermediate
+503,noc23-ma31,Mathematics,Applied Linear Algebra in AI and ML,Prof. Swanand Khare,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ma31,https://nptel.ac.in/courses/111105165,3,Intermediate
+509,noc23-ma38,Mathematics,Introduction to Queueing Theory,Prof. N.Selvaraju,IITG,IITG,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ma38,https://nptel.ac.in/courses/111103159,3,Intermediate
+510,noc23-ma39,Mathematics,Essentials Of Data Science With R Software - 1: Probability And Statistical Inference,Prof. Shalabh,IITK,IITK,12 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_ma39,https://nptel.ac.in/courses/111104146,3,Intermediate
+511,noc23-ma40,Mathematics,Essentials Of Data Science With R Software - 2: Sampling Theory And Linear Regression Analysis,Prof. Shalabh,IITK,IITK,12 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_ma40,https://nptel.ac.in/courses/111104147,3,Intermediate
+513,noc23-ma42,Mathematics,Variational Calculus and its applications in Control Theory and Nanomechanics,Prof. Sarthok Sircar,IIIT Delhi,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ma42,https://nptel.ac.in/courses/111106144,3,Intermediate
+515,noc23-ma44,Mathematics,Numerical Analysis,Prof. S. Baskar,IITB,IITB,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ma44,https://nptel.ac.in/courses/111101165,3,Intermediate
+516,noc23-ma45,Mathematics,A Primer to Mathematical Optimization,Prof. Debdas Ghosh,"IIT (BHU), Varanasi",IITK,12 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_ma45,https://nptel.ac.in/courses/111104165,3,Intermediate
+519,noc23-ma48,Mathematics,Probability –I with Examples Using R,Prof. Siva Athreya,ISI Bangalore,IITM,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ma48/preview,,3,Beginner
+522,noc23-me04,Mechanical Engineering,Computational Fluid Dynamics for Incompressible Flows,Prof. Amaresh Dalal,IITG,IITG,12 Weeks,UG/PG,Elective,Computational Thermo Fluids,https://onlinecourses.nptel.ac.in/noc23_me04,https://nptel.ac.in/courses/112103289,3,Intermediate
+523,noc23-me05,Mechanical Engineering,Failure analysis and Prevention,Prof. D. K. Dwivedi,IITR,IITR,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me05,https://nptel.ac.in/courses/112107241,2,Intermediate
+525,noc23-me07,Mechanical Engineering,Robotics and Control : Theory and Practice,"Prof. N. Sukavanam
+ Prof. M. Felix Orlando",IITR,IITR,8 Weeks,UG/PG,Elective,"Advanced Dynamics And Vibration
+ Product Design
+ Robotics",https://onlinecourses.nptel.ac.in/noc23_me07,https://nptel.ac.in/courses/112107289,2,Intermediate
+528,noc23-me10,Mechanical Engineering,Turbulent Combustion: Theory And Modelling,Prof. Ashoke De,IITK,IITK,12 Weeks,UG/PG,Core/Elective,"Computational Thermo Fluids
+ Product Design",https://onlinecourses.nptel.ac.in/noc23_me10,https://nptel.ac.in/courses/112104272,3,Intermediate
+529,noc23-me11,Mechanical Engineering,Experimental Stress Analysis,Prof. K. Ramesh,IITM,IITM,12 Weeks,UG/PG,Elective,Advanced Mechanics,https://onlinecourses.nptel.ac.in/noc23_me11,https://nptel.ac.in/courses/112106247,3,Intermediate
+531,noc23-me13,Mechanical Engineering,Computer Integrated Manufacturing,"Prof. J. Ramkumar
+ Prof. Amandeep Singh",IITK,IITK,12 Weeks,UG/PG,Elective,Manufacturing Processes And Technology,https://onlinecourses.nptel.ac.in/noc23_me13,https://nptel.ac.in/courses/112104289,3,Intermediate
+532,noc23-me14,Mechanical Engineering,Product Design and Manufacturing,"Prof. J.Ramkumar
+ Prof. Amandeep Singh",IITK,IITK,12 Weeks,UG/PG,Elective,Product Design,https://onlinecourses.nptel.ac.in/noc23_me14,https://nptel.ac.in/courses/112104230,3,Intermediate
+534,noc23-me16,Mechanical Engineering,Mechanics of Machining,Prof. Uday S. Dixit,IITG,IITG,8 Weeks,UG/PG,Core/Elective,Manufacturing Processes And Technology,https://onlinecourses.nptel.ac.in/noc23_me16,https://nptel.ac.in/courses/112103248,2,Intermediate
+535,noc23-me17,Mechanical Engineering,Nature and Properties of Materials,Prof. Bishakh Bhattacharya,IITK,IITK,8 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me17,https://nptel.ac.in/courses/112104203,2,Beginner
+536,noc23-me18,Mechanical Engineering,Smart Materials and Intelligent System Design,Prof. Bishakh Bhattacharya,IITK,IITK,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me18,https://nptel.ac.in/courses/112104251,1,Intermediate
+537,noc23-me19,Mechanical Engineering,Modelling and Simulation of Dynamic Systems,Prof. Pushparaj Mani Pathak,IITR,IITR,8 Weeks,UG/PG,Elective,Robotics,https://onlinecourses.nptel.ac.in/noc23_me19,https://nptel.ac.in/courses/112107214,2,Intermediate
+539,noc23-me21,Mechanical Engineering,Introduction to Abrasive Machining and Finishing Processes,Prof. Mamilla Ravi Sankar,IIT Tirupati,IITM,8 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_me21,https://nptel.ac.in/courses/112103250,2,Intermediate
+541,noc23-me23,Mechanical Engineering,Convective Heat Transfer,Prof. Arup Kumar Das,IITR,IITR,4 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me23,https://nptel.ac.in/courses/112107211,1,Beginner
+542,noc23-me24,Mechanical Engineering,Two phase flow and heat transfer,Prof. Arup Kumar Das,IITR,IITR,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me24,https://nptel.ac.in/courses/112107207,1,Intermediate
+544,noc23-me26,Mechanical Engineering,Design Practice,Prof. Shantanu Bhattacharya,IITK,IITK,8 Weeks,UG/PG,Elective,Product Design,https://onlinecourses.nptel.ac.in/noc23_me26,https://nptel.ac.in/courses/112104228,2,Intermediate
+545,noc23-me27,Mechanical Engineering,Fundamentals of Combustion,Prof. V. Raghavan,IITM,IITM,12 Weeks,UG/PG,Core/Elective,"Computational Thermo Fluids
+ Propulsion",https://onlinecourses.nptel.ac.in/noc23_me27,https://nptel.ac.in/courses/112106299,3,Intermediate
+546,noc23-me28,Mechanical Engineering,Oil Hydraulics and Pneumatics,Prof. Somashekhar S,IITM,IITM,12 Weeks,UG/PG,Core/Elective,Manufacturing Processes And Technology,https://onlinecourses.nptel.ac.in/noc23_me28,https://nptel.ac.in/courses/112106300,3,Intermediate
+547,noc23-me29,Mechanical Engineering,Explosions and Safety,"Prof. K. Ramamurthi
+ Prof. Prasad Patnaik Bsv",IITM,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me29,https://nptel.ac.in/courses/112106177,3,Intermediate
+548,noc23-me30,Mechanical Engineering,Wheeled Mobile Robots,"Prof. Asokan Thondiyath
+ Prof. Santhakumar Mohan","IITM
+ IIT Palakkad",IITM,8 Weeks,UG/PG,Elective,"Manufacturing Processes And Technology
+ Product Design
+ Robotics",https://onlinecourses.nptel.ac.in/noc23_me30,https://nptel.ac.in/courses/112106298,2,Intermediate
+550,noc23-me32,Mechanical Engineering,Inverse Methods in Heat Transfer,Prof. Balaji Srinivasan,IITM,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me32,https://nptel.ac.in/courses/112106316,3,Intermediate
+552,noc23-me34,Mechanical Engineering,Optical Methods for Solid and Fluid Mechanics,"Prof. Aloke Kumar
+ Prof. Koushik Viswanathan",IISc,IISc,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me34,https://nptel.ac.in/courses/112108316,2,Intermediate
+554,noc23-me36,Mechanical Engineering,Kinematics Of Mechanisms And Machines,Prof. Anirvan Dasgupta,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,Robotics,https://onlinecourses.nptel.ac.in/noc23_me36,https://nptel.ac.in/courses/112105268,2,Intermediate
+555,noc23-me37,Mechanical Engineering,Gear And Gear Unit Design: Theory And Practice,Prof. Rathindranath Maiti,IITKGP,IITKGP,8 Weeks,UG/PG,Core/Elective,Product Design,https://onlinecourses.nptel.ac.in/noc23_me37,https://nptel.ac.in/courses/112105234,2,Intermediate
+556,noc23-me38,Mechanical Engineering,Electronic Packaging And Manufacturing,Prof. Anandaroop Bhattacharya,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me38,https://nptel.ac.in/courses/112105267,2,Intermediate
+557,noc23-me39,Mechanical Engineering,Tools In Scientific Computing,Prof. Aditya Bandopadhyay,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,"Computational Engineering
+ Computational Mechanics",https://onlinecourses.nptel.ac.in/noc23_me39,https://nptel.ac.in/courses/112105299,2,Intermediate
+558,noc23-me40,Mechanical Engineering,Traditional And Non-Traditional Optimization Tools,Prof. Dilip Kumar Pratihar,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me40,https://nptel.ac.in/courses/112105235,2,Intermediate
+561,noc23-me43,Mechanical Engineering,Introduction To Mechanical Micro Machining,Prof. Ajay M Sidpara,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,Manufacturing Processes And Technology,https://onlinecourses.nptel.ac.in/noc23_me43,https://nptel.ac.in/courses/112105231,3,Intermediate
+562,noc23-me44,Mechanical Engineering,Manufacturing Guidelines for Product Design,Prof. Inderdeep Singh,IITR,IITR,8 Weeks,UG/PG,Elective,Product Design,https://onlinecourses.nptel.ac.in/noc23_me44,https://nptel.ac.in/courses/112107258,2,Intermediate
+564,noc23-me46,Mechanical Engineering,Surface Engineering of Nanomaterials,Prof. Kaushik Pal,IITR,IITR,8 Weeks,UG/PG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_me46,https://nptel.ac.in/courses/113107075,2,Intermediate
+565,noc23-me47,Mechanical Engineering,Inspection and Quality Control in Manufacturing,Prof. Kaushik Pal,IITR,IITR,4 Weeks,UG/PG,Core/Elective,Energy Systems,https://onlinecourses.nptel.ac.in/noc23_me47,https://nptel.ac.in/courses/112107259,1,Intermediate
+568,noc23-me50,Mechanical Engineering,Mechatronics,Prof. Pushparaj Mani Pathak,IITR,IITR,8 Weeks,UG/PG,Core/Elective,"Manufacturing Processes And Technology
+ Product Design",https://onlinecourses.nptel.ac.in/noc23_me50,https://nptel.ac.in/courses/112107298,2,Intermediate
+569,noc23-me51,Mechanical Engineering,Advanced Robotics,Prof. Ashish Dutta,IITK,IITK,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me51,https://nptel.ac.in/courses/112104316,3,Intermediate
+572,noc23-me54,Mechanical Engineering,Mechanics of Fiber Reinforced Polymer Composite Structures,Prof. Debabrata Chakraborty,IITG,IITG,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me54,https://nptel.ac.in/courses/112103308,3,Intermediate
+574,noc23-me56,Mechanical Engineering,Nonlinear Vibration,Prof. S. K. Dwivedy,IITG,IITG,12 Weeks,UG/PG,Elective,Advanced Dynamics And Vibration,https://onlinecourses.nptel.ac.in/noc23_me56,https://nptel.ac.in/courses/112103300,3,Intermediate
+575,noc23-me57,Mechanical Engineering,Viscous Fluid Flow,Prof. Amaresh Dalal,IITG,IITG,12 Weeks,UG/PG,Elective,Computational Thermo Fluids,https://onlinecourses.nptel.ac.in/noc23_me57,https://nptel.ac.in/courses/112103302,3,Intermediate
+576,noc23-me58,Mechanical Engineering,Finite element modeling of welding processes,Prof. Swarup Bag,IITG,IITG,12 Weeks,UG/PG,Elective,"Advanced Mechanics
+ Computational Mechanics
+ Manufacturing Processes And Technology
+ Materials Joining",https://onlinecourses.nptel.ac.in/noc23_me58,https://nptel.ac.in/courses/112103299,3,Intermediate
+580,noc23-me62,Mechanical Engineering,Manufacturing Automation,Prof. Sounak Kumar Choudhury,IITK,IITK,4 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me62,https://nptel.ac.in/courses/112104288,1,Beginner
+581,noc23-me63,Mechanical Engineering,Basics of Finite Element Analysis - II,Prof. Nachiketa Tiwari,IITK,IITK,8 Weeks,UG/PG,Elective,Advanced Mechanics,https://onlinecourses.nptel.ac.in/noc23_me63,https://nptel.ac.in/courses/112104205,2,Intermediate
+583,noc23-me65,Mechanical Engineering,Thermodynamics,Prof. S.R. Kale,IITD,IITD,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me65,https://nptel.ac.in/courses/112102255,3,Intermediate
+584,noc23-me66,Mechanical Engineering,Introduction To Uncertainty Analysis And Experimentation,Prof. S.R. Kale,IITD,IITD,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me66,https://nptel.ac.in/courses/112102298,2,Intermediate
+585,noc23-me67,Mechanical Engineering,Robotics: Basics and Selected Advanced Concepts,Prof. Ashitava Ghosal,IISc,IISc,12 Weeks,UG/PG,Elective,"Manufacturing Processes And Technology
+ Product Design",https://onlinecourses.nptel.ac.in/noc23_me67,https://nptel.ac.in/courses/112108298,3,Intermediate
+586,noc23-me68,Mechanical Engineering,Two-Phase Flow With Phase Change In Conventional And Miniature Channels,Prof. Manmohan Pandey,IITG,IITG,4 weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me68,https://nptel.ac.in/courses/112103274,1,Beginner
+587,noc23-me69,Mechanical Engineering,Statistical Thermodynamics for Engineers,Prof. Saptarshi Basu,IISc,IISc,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_me69,https://nptel.ac.in/courses/112108317,3,Intermediate
+588,noc23-mm02,Metallurgical and Materials Engineering,Fundamentals Of Electronic Materials And Devices,Prof. Parasuraman Swaminathan,IITM,IITM,8 Weeks,UG/PG,Elective,Electronic Materials,https://onlinecourses.nptel.ac.in/noc23_mm02,https://nptel.ac.in/courses/113106065,2,Intermediate
+590,noc23-mm04,Metallurgical and Materials Engineering,Steel Quality: Role of Secondary Refining & Continuous Casting,Prof. Santanu Kr. Ray,IITM,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mm04,https://nptel.ac.in/courses/112106253,3,Intermediate
+591,noc23-mm05,Metallurgical and Materials Engineering,Theory and Practice of Non Destructive Testing,Prof. Ranjit Bauri,IITM,IITM,8 Weeks,UG/PG,Elective,"Manufacturing Processes And Technology
+ Materials Characterization
+ Materials Joining",https://onlinecourses.nptel.ac.in/noc23_mm05,https://nptel.ac.in/courses/113106070,2,Intermediate
+592,noc23-mm06,Metallurgical and Materials Engineering,Welding Processes,Prof. Murugaiyan Amirthalingam,IITM,IITM,12 Weeks,UG/PG,Elective,"Materials Joining
+ Minor In Metallurgy",https://onlinecourses.nptel.ac.in/noc23_mm06,https://nptel.ac.in/courses/113106087,3,Intermediate
+593,noc23-mm07,Metallurgical and Materials Engineering,Materials Science and Engineering,Prof. Vivek Pancholi,IITR,IITR,8 Weeks,UG,Core/Elective,,https://onlinecourses.nptel.ac.in/noc23_mm07,https://nptel.ac.in/courses/113107078,2,Beginner
+594,noc23-mm08,Metallurgical and Materials Engineering,Properties of Materials (Nature and Properties of Materials : III),Prof. Ashish Garg,IITK,IITK,8 Weeks,UG,Core/Elective,Minor In Metallurgy,https://onlinecourses.nptel.ac.in/noc23_mm08,https://nptel.ac.in/courses/113104096,2,Beginner
+596,noc23-mm10,Metallurgical and Materials Engineering,"Solar Photovoltaics: Principles, Technologies & Materials",Prof. Ashish Garg,IITK,IITK,8 Weeks,UG/PG,Elective,Electronic Materials,https://onlinecourses.nptel.ac.in/noc23_mm10,https://nptel.ac.in/courses/113104084,2,Intermediate
+597,noc23-mm11,Metallurgical and Materials Engineering,Diffusion in Multicomponent Solids,Prof. Kaustubh Kulkarni,IITK,IITK,12 Weeks,UG/PG,Elective,Minor In Metallurgy,https://onlinecourses.nptel.ac.in/noc23_mm11,https://nptel.ac.in/courses/113104097,3,Intermediate
+599,noc23-mm13,Metallurgical and Materials Engineering,Fundamentals of Material Processing - Part 2,"Prof. Shashank Shekhar
+ Prof. Anshu Gaur",IITK,IITK,8 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mm13,https://nptel.ac.in/courses/113104075,2,Beginner
+601,noc23-mm16,Metallurgical and Materials Engineering,"Crystals, Symmetry and Tensors",Prof. Rajesh Prasad,IITD,IITD,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mm16,https://nptel.ac.in/courses/113102108,3,Intermediate
+602,noc23-mm17,Metallurgical and Materials Engineering,Cathodic Protection Engineering,Prof. V.S. Raja,IITB,IITB,4 Weeks,UG/PG,Elective,Materials Joining,https://onlinecourses.nptel.ac.in/noc23_mm17,https://nptel.ac.in/courses/113101099,1,Intermediate
+603,noc23-mm18,Metallurgical and Materials Engineering,Introduction To Crystal Elasticity And Crystal Plasticity,Prof. Swarup Bag,IITG,IITG,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mm18,https://nptel.ac.in/courses/113103072,2,Intermediate
+606,noc23-mm21,Metallurgy and Mererial Science,Surface Engineering For Corrosion And Wear Resistance Application,"Prof. Indranil Manna
+ Prof. Jyotsna Dutta Majumdar",IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mm21,https://nptel.ac.in/courses/113105086,3,Intermediate
+608,noc23-mm23,Mining Engineering,Network Analysis For Mines And Mineral Engineering,Prof. Kaushik Dey,IITKGP,IITKGP,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_mm23,https://nptel.ac.in/courses/123105004,1,Intermediate
+614,noc23-ge04,Multidisciplinary,Non-conventional energy Resources,Prof. Prathap Haridoss,IITM,IITM,12 Weeks,UG/PG,Elective,"Energy And Environment
+ Energy Systems",https://onlinecourses.nptel.ac.in/noc23_ge04,https://nptel.ac.in/courses/121106014,3,Intermediate
+618,noc23-ge08,Multidisciplinary,Foundation Certificate In Palliative Care,"Prof. Geeta Joshi
+ Prof. Piyush Gupta",ICMR-National Institute of Epidemiology,IITK,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ge08,https://nptel.ac.in/courses/127104233,3,Beginner
+620,noc23-ge10,Multidisciplinary,Basic Course in Ornithology,"Prof. Mousumi Ghosh
+ Prof. Manjari Jain
+ Prof. R Jayapal
+ Prof. Anand Krishnan
+ Prof. Suhel Quader
+ Prof. V.V. Robin
+ Prof. Umesh Srinivasan","NCF
+ IISER Mohali
+ SACON
+ IISER Bhopal
+ NCF
+ IISER Tirupati
+ IISc",IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ge10,https://nptel.ac.in/courses/127106229,3,Intermediate
+621,noc23-ge11,Multidisciplinary,Oral Biology,Prof. Ramya And Team,Saveetha Dental College & IITM,IITM,8 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ge11,https://nptel.ac.in/courses/127106230,2,Beginner
+622,noc23-ge12,Multidisciplinary,Rural Water Resources Management,Prof. Pennan Chinnasamy,IITB,IITB,12 Weeks,UG,Elective,Environment,https://onlinecourses.nptel.ac.in/noc23_ge12,https://nptel.ac.in/courses/105101215,3,Beginner
+623,noc23-ge13,Multidisciplinary,Groundwater hydrology and management,Prof. Pennan Chinnasamy,IITB,IITB,12 Weeks,UG,Elective,Environment,https://onlinecourses.nptel.ac.in/noc23_ge13,https://nptel.ac.in/courses/105101214,3,Beginner
+624,noc23-ge14,Multidisciplinary,Outcome Based Pedagogic Principles For Effective Teaching,Prof. Shyamal Kumar Das Mandal,IITKGP,IITKGP,4 Weeks,UG,Elective,"Faculty Domain - Advanced
+ Faculty Domain - Fundamental",https://onlinecourses.nptel.ac.in/noc23_ge14,https://nptel.ac.in/courses/121105010,1,Beginner
+625,noc23-ge15,Multidisciplinary,Fuzzy Logic And Neural Networks,Prof. Dilip Kumar Pratihar,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ge15,https://nptel.ac.in/courses/127105006,2,Intermediate
+626,noc23-ge16,Multidisciplinary,Entrepreneurship Essentials,Prof. Manoj Kumar Mondal,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ge16,https://nptel.ac.in/courses/127105007,3,Intermediate
+630,noc23-ge20,Multidisciplinary,Introduction to Reliability Engineering,Prof. Neeraj Kumar Goyal,IITKGP,IITKGP,8 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ge20,https://nptel.ac.in/courses/127105234,2,Beginner
+631,noc23-ge21,Multidisciplinary,Nanobio Technology Enabled Point-of-Care Devices,Prof. Gorachand Dutta,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ge21,https://nptel.ac.in/courses/127105235,2,Intermediate
+632,noc23-ge22,Multidisciplinary,Roadmap for patent creation,Prof. Gouri Gargate,IITKGP,IITKGP,8 Weeks,UG/PG,Elective,Patents And Intellectual Property Rights,https://onlinecourses.nptel.ac.in/noc23_ge22,https://nptel.ac.in/courses/127105008,2,Intermediate
+639,noc23-ph03,Physics,Physics of Biological Systems,Prof. Mithun Mitra,IITB,IITB,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ph03,https://nptel.ac.in/courses/115101121,3,Intermediate
+641,noc23-ph05,Physics,Group Theory methods in Physics,Prof. P. Ramadevi,IITB,IITB,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ph05,https://nptel.ac.in/courses/115101122,3,Beginner
+642,noc23-ph06,Physics,A brief course on Superconductivity,Prof. Saurabh Basu,IITG,IITG,4 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ph06,https://nptel.ac.in/courses/115103108,1,Intermediate
+643,noc23-ph07,Physics,Advanced Condensed Matter Physics,Prof. Saurabh Basu,IITG,IITG,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ph07,https://nptel.ac.in/courses/115103102,2,Intermediate
+644,noc23-ph08,Physics,Introduction to Atmospheric and Space Sciences,Prof. M V Sunil Krishna,IITR,IITR,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ph08,https://nptel.ac.in/courses/115107121,3,Intermediate
+648,noc23-ph14,Physics,Introduction to Quantum Field Theory (Theory of Scalar Fields) - Part 2,Prof. Anurag Tripathi,IITH,IITM,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ph14,https://nptel.ac.in/courses/115106133,3,Intermediate
+652,noc23-ph18,Physics,Electronic Theory Of Solids,Prof. Arghya Taraphder,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ph18,https://nptel.ac.in/courses/115105122,3,Intermediate
+653,noc23-ph19,Physics,Physics of Linear And Nonlinear Optical Waveguides,Prof. Samudra Roy,IITKGP,IITKGP,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ph19,https://nptel.ac.in/courses/115105124,3,Intermediate
+655,noc23-ph21,Physics,Nuclear Astrophysics,Prof. Anil Kumar Gourishetty,IITR,IITR,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_ph21,https://nptel.ac.in/courses/115107130,2,Intermediate
+659,noc23-te02,Textile Engineering,Testing of Functional and Technical Textiles,Prof. Apurba Das,IITD,IITD,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_te02,https://nptel.ac.in/courses/116102050,2,Intermediate
+660,noc23-te03,Textile Engineering,Theory of Yarn Structure,Prof. Dipayan Das,IITD,IITD,12 Weeks,UG,Elective,,https://onlinecourses.nptel.ac.in/noc23_te03,https://nptel.ac.in/courses/116102051,3,Beginner
+661,noc23-te04,Textile Engineering,Advanced Textile Printing Technology,Prof. Kushal Sen,IITD,IITD,8 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_te04,https://nptel.ac.in/courses/116102052,2,Intermediate
+662,noc23-te05,Textile Engineering,Textured Yarn Technology,Prof. Kushal Sen,IITD,IITD,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_te05,https://nptel.ac.in/courses/116102053,3,Intermediate
+663,noc23-te06,Textile Engineering,Textile Product Design and Development,Prof. R Chattopadhyay,IITD,IITD,12 Weeks,UG/PG,Elective,,https://onlinecourses.nptel.ac.in/noc23_te06,https://nptel.ac.in/courses/116102058,3,Intermediate
