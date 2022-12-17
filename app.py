@@ -152,12 +152,14 @@ def main():
                 result_df = search_term_if_not_found(cname,data)
                 st.dataframe(result_df.head(number_of_rec))
             
-                
         else:    
             print("")
             
     elif choice == "About":
-        st.text("")
+        st.text("Selected Dataset nptel electives")
+        st.text("Filter out to Computer Science discipline.")
+        st.text("Provide recommendations based on cosine similarity.")
+
     
 if __name__ == '__main__':
 	main()
