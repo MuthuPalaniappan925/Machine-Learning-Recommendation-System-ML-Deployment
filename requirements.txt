@@ -4,4 +4,3 @@ streamlit-option-menu==0.3.2
 seaborn==0.12.1
 scikit-learn==1.0.1
 protobuf==3.20.1
-difflib==3.5.7
